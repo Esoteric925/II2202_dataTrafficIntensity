@@ -1,0 +1,8746 @@
+[
+	{
+		"idPath" : 1,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 118,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 139,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 212,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 312,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 401,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 435,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 440,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 560,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 772,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 847,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 900,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 1013,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 1014,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 1153,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 1169,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 1370,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 1693,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 2044,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 2093,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 2094,
+		"idTraceDirection" : 1
+	},
+	{
+		"idPath" : 3,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 58,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 194,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 196,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 302,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 416,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 504,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 507,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 510,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 600,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 650,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1154,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1163,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1166,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1187,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1190,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1202,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1204,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1218,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1227,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1419,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1595,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1603,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1664,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 1861,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 2175,
+		"idTraceDirection" : 2
+	},
+	{
+		"idPath" : 2,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 24,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 86,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 90,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 95,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 99,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 170,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 171,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 172,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 179,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 198,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 255,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 355,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 442,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 517,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 606,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 620,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1048,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1147,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1151,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1155,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1189,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1194,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1197,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1200,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1228,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1258,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1271,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1274,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1296,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1314,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1354,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1380,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1394,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1588,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1599,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1665,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1745,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 1893,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 2026,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 2030,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 2063,
+		"idTraceDirection" : 3
+	},
+	{
+		"idPath" : 4,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 5,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 51,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 74,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 97,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 177,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 178,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 180,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 190,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 199,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 247,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 291,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 320,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 322,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 332,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 357,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 368,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 374,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 573,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 641,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 651,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 763,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 793,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 831,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 883,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1038,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1039,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1150,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1152,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1158,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1165,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1186,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1191,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1199,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1203,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1207,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1217,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1247,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1251,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1255,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1257,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1267,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1269,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1349,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1351,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1355,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1359,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1361,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1376,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1377,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1390,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1396,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1399,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1406,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1620,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1768,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1896,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1919,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1922,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 1989,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 2019,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 2075,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 2078,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 2081,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 2091,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 2116,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 2143,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 2158,
+		"idTraceDirection" : 4
+	},
+	{
+		"idPath" : 28,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 29,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 35,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 42,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 64,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 67,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 71,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 128,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 129,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 150,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 152,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 158,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 160,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 161,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 174,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 175,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 183,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 186,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 187,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 188,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 213,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 214,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 228,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 230,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 232,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 234,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 240,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 242,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 254,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 257,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 260,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 261,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 266,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 278,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 280,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 282,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 283,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 285,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 288,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 290,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 292,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 296,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 298,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 300,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 305,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 313,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 323,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 325,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 330,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 331,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 336,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 340,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 342,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 344,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 346,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 348,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 349,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 350,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 353,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 354,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 356,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 362,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 363,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 364,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 365,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 378,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 379,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 380,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 381,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 382,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 384,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 389,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 390,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 394,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 396,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 397,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 402,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 403,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 404,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 419,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 420,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 423,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 446,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 448,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 457,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 459,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 462,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 466,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 467,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 471,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 473,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 477,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 487,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 491,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 496,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 497,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 503,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 512,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 513,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 544,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 545,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 546,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 547,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 548,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 550,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 555,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 561,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 562,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 563,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 564,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 568,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 570,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 576,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 577,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 578,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 579,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 583,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 587,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 590,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 593,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 596,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 605,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 610,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 611,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 614,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 616,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 621,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 623,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 626,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 632,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 633,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 635,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 638,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 639,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 642,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 644,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 646,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 647,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 648,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 652,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 653,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 654,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 655,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 656,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 658,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 661,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 667,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 684,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 686,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 688,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 692,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 693,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 697,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 698,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 700,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 703,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 706,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 707,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 709,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 720,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 721,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 722,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 727,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 732,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 734,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 737,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 740,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 762,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 764,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 767,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 771,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 773,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 774,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 775,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 778,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 779,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 781,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 782,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 783,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 786,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 788,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 792,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 796,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 797,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 798,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 799,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 800,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 801,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 803,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 805,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 806,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 807,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 808,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 812,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 814,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 819,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 821,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 829,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 830,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 834,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 835,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 836,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 837,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 838,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 839,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 840,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 841,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 843,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 845,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 846,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 848,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 849,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 850,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 851,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 852,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 853,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 854,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 855,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 856,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 858,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 859,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 860,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 863,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 864,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 866,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 868,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 869,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 870,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 875,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 876,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 877,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 878,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 879,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 881,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 882,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 888,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 889,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 890,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 895,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 897,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 898,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 899,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 908,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 909,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 913,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 915,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 916,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 920,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 921,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 928,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 929,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 930,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 931,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 932,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 936,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 942,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 956,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 957,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 958,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 959,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 960,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 961,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 962,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 965,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 967,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 974,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 976,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 977,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 981,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 989,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 991,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1006,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1007,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1009,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1010,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1011,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1015,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1019,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1020,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1022,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1024,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1026,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1027,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1028,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1029,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1030,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1031,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1042,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1043,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1047,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1049,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1052,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1054,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1055,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1059,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1068,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1069,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1075,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1076,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1077,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1079,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1085,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1087,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1088,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1089,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1090,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1091,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1093,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1094,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1095,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1097,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1109,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1111,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1112,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1113,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1114,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1115,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1116,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1122,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1123,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1126,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1128,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1129,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1130,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1134,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1135,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1141,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1142,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1148,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1149,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1160,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1161,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1170,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1172,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1173,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1175,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1176,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1177,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1178,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1179,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1206,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1210,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1219,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1220,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1233,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1235,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1239,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1246,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1252,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1261,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1262,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1263,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1265,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1268,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1275,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1282,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1292,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1293,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1294,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1295,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1301,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1303,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1307,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1309,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1310,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1312,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1316,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1318,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1319,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1320,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1322,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1326,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1327,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1328,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1329,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1330,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1331,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1333,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1334,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1347,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1360,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1363,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1364,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1365,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1366,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1375,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1414,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1427,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1431,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1432,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1433,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1434,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1436,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1440,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1442,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1448,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1465,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1466,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1467,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1470,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1472,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1473,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1474,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1476,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1484,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1486,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1490,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1492,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1495,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1496,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1500,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1503,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1504,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1508,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1511,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1518,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1520,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1523,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1524,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1526,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1530,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1534,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1536,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1537,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1538,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1541,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1543,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1545,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1546,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1547,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1548,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1551,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1555,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1556,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1558,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1559,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1560,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1561,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1562,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1563,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1564,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1567,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1568,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1571,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1572,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1575,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1580,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1589,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1591,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1592,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1593,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1597,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1598,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1624,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1630,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1632,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1639,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1640,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1641,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1651,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1652,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1659,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1660,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1661,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1663,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1666,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1668,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1674,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1678,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1680,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1681,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1686,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1687,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1695,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1700,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1705,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1706,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1715,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1719,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1729,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1730,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1731,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1737,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1738,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1739,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1741,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1748,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1749,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1750,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1751,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1752,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1754,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1758,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1765,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1769,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1772,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1774,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1775,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1778,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1780,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1782,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1784,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1786,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1787,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1788,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1789,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1796,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1798,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1801,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1802,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1806,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1807,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1810,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1811,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1812,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1813,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1814,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1815,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1816,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1825,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1826,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1827,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1837,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1840,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1844,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1845,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1847,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1849,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1851,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1853,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1856,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1859,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1864,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1865,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1867,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1871,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1873,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1874,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1875,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1878,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1880,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1881,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1882,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1883,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1885,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1889,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1891,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1897,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1898,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1899,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1900,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1901,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1904,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1905,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1906,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1910,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1911,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1914,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1924,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1928,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1930,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1932,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1933,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1936,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1938,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1939,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1941,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1943,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1945,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1946,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1947,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1948,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1951,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1953,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1954,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1957,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1960,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1963,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1965,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1966,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1968,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1973,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1978,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 1999,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2001,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2002,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2003,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2005,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2006,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2010,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2012,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2013,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2014,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2020,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2022,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2023,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2028,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2029,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2033,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2034,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2035,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2036,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2037,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2040,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2041,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2042,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2043,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2045,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2046,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2049,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2050,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2052,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2053,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2054,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2058,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2060,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2061,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2062,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2064,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2065,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2066,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2070,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2071,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2072,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2076,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2077,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2080,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2082,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2084,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2085,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2087,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2090,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2092,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2100,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2101,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2108,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2109,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2115,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2128,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2129,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2130,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2131,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2133,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2134,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2136,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2139,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2141,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2142,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2144,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2150,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2154,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2156,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2157,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2160,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2163,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2164,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2165,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2166,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2167,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2169,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2171,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2178,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2180,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2181,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2182,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2183,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2184,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 2185,
+		"idTraceDirection" : 5
+	},
+	{
+		"idPath" : 33,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 56,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 105,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 114,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 117,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 994,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 996,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1017,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1063,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1272,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1289,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1604,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1608,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1677,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1803,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1808,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1977,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1980,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1982,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 1984,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 2031,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 2152,
+		"idTraceDirection" : 6
+	},
+	{
+		"idPath" : 9,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 13,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 91,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 248,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 249,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 458,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 777,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 813,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 817,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 901,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 904,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 923,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 1072,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 1201,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 1487,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 1579,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 1917,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 2174,
+		"idTraceDirection" : 7
+	},
+	{
+		"idPath" : 17,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 20,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 23,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 26,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 50,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 59,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 75,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 100,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 101,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 102,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 110,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 119,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 141,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 142,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 144,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 147,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 154,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 155,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 157,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 168,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 215,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 216,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 224,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 464,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 465,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 468,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 470,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 475,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 476,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 481,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 493,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 494,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 519,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 520,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 522,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 530,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 552,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 556,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 580,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 582,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 598,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 599,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 601,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 603,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 618,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 619,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 622,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 637,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 674,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 675,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 695,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 728,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 729,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 730,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 739,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 755,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 784,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 785,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 789,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 790,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 791,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 795,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 818,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 820,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 824,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 827,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 885,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 886,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 887,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 891,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 906,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 918,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 971,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 972,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 973,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 985,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 988,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1018,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1057,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1058,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1061,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1062,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1110,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1144,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1145,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1162,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1234,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1237,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1381,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1382,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1384,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1387,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1401,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1402,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1403,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1404,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1405,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1445,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1450,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1460,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1461,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1462,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1463,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1480,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1498,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1542,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1553,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1557,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1590,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1594,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1596,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1610,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1611,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1614,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1616,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1642,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1670,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1672,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1696,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1698,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1703,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1708,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1710,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1717,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1753,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1762,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1824,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1908,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1918,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 1970,
+		"idTraceDirection" : 8
+	},
+	{
+		"idPath" : 16,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 133,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 137,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 146,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 185,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 189,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 193,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 217,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 223,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 227,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 338,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 351,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 418,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 506,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 645,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 780,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 811,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 867,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 911,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 922,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 925,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 937,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 941,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 984,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1100,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1159,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1184,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1188,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1193,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1215,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1224,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1229,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1244,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1256,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1270,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1273,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1286,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1335,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1346,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1357,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1362,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1383,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1438,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1468,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1478,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1501,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1502,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1516,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1544,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1585,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1602,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1766,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1767,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1799,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1805,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1809,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1820,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1920,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1926,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1955,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1961,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 1967,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 2159,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 2173,
+		"idTraceDirection" : 9
+	},
+	{
+		"idPath" : 11,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 112,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 276,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 326,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 433,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 441,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 531,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 723,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 903,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1023,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1157,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1180,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1304,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1356,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1367,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1368,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1369,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1374,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1582,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1879,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1916,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1940,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1974,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1976,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1981,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 1985,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 2008,
+		"idTraceDirection" : 10
+	},
+	{
+		"idPath" : 6,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 63,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 92,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 108,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 275,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 456,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 461,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 500,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 666,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 669,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 713,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 719,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 758,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 810,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 893,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 944,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 945,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 975,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 978,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 982,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 997,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 999,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1002,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1016,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1225,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1266,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1644,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1649,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1876,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1877,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1971,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 1983,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 2038,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 2039,
+		"idTraceDirection" : 11
+	},
+	{
+		"idPath" : 19,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 22,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 30,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 32,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 65,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 66,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 69,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 78,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 79,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 103,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 115,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 122,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 131,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 132,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 153,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 195,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 204,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 222,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 264,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 301,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 339,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 371,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 372,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 373,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 398,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 406,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 407,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 410,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 411,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 452,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 454,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 455,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 474,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 478,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 479,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 484,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 485,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 502,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 508,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 514,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 532,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 533,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 535,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 536,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 539,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 540,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 542,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 543,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 569,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 571,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 572,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 574,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 575,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 594,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 677,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 678,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 744,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 760,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 761,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 861,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 924,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 947,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 953,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1046,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1073,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1181,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1182,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1226,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1285,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1306,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1340,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1343,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1344,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1350,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1352,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1353,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1358,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1372,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1378,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1379,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1385,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1386,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1388,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1389,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1391,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1398,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1400,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1429,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1430,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1441,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1443,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1455,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1456,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1475,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1482,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1493,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1505,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1507,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1521,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1525,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1529,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1535,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1539,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1540,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1565,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1566,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1586,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1600,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1601,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1605,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1607,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1626,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1627,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1650,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1658,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1667,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1682,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1697,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1699,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1724,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1746,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1759,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1764,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1773,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1817,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1821,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1822,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1828,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1836,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1841,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1842,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1846,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1850,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1852,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1854,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1869,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1886,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1912,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1929,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1956,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1958,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1969,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1992,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 1993,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2016,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2017,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2024,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2025,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2027,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2032,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2088,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2089,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2102,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2123,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2137,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 2138,
+		"idTraceDirection" : 12
+	},
+	{
+		"idPath" : 27,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 31,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 34,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 36,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 38,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 39,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 40,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 45,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 46,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 47,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 54,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 55,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 57,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 60,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 61,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 62,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 68,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 70,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 72,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 73,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 76,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 81,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 87,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 88,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 89,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 94,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 96,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 121,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 123,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 127,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 134,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 135,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 138,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 140,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 143,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 145,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 148,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 151,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 156,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 159,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 162,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 163,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 169,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 173,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 191,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 192,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 197,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 200,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 202,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 219,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 221,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 226,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 229,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 233,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 235,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 237,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 238,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 244,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 246,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 250,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 251,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 252,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 253,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 256,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 258,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 259,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 262,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 263,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 265,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 267,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 271,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 272,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 274,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 277,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 279,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 281,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 286,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 287,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 289,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 294,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 295,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 297,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 299,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 303,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 304,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 306,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 308,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 309,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 310,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 311,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 314,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 316,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 318,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 319,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 321,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 324,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 327,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 328,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 329,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 333,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 334,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 335,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 337,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 341,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 345,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 347,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 352,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 358,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 359,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 360,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 361,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 366,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 367,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 369,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 370,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 375,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 377,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 383,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 385,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 386,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 387,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 388,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 392,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 393,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 395,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 399,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 405,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 408,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 414,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 415,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 417,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 421,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 422,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 424,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 425,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 426,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 427,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 430,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 431,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 444,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 447,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 449,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 450,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 451,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 453,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 460,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 463,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 472,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 480,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 482,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 483,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 486,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 488,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 489,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 490,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 492,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 495,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 498,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 499,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 505,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 509,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 511,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 515,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 521,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 524,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 527,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 528,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 534,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 537,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 538,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 541,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 549,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 551,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 554,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 557,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 558,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 559,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 567,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 581,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 588,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 589,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 591,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 592,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 595,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 597,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 604,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 607,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 609,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 613,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 615,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 617,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 624,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 625,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 627,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 628,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 629,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 630,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 631,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 634,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 640,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 649,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 657,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 659,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 660,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 663,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 664,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 665,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 668,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 670,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 671,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 672,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 673,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 676,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 679,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 680,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 681,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 682,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 683,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 685,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 687,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 690,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 696,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 699,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 701,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 702,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 704,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 705,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 708,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 710,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 711,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 712,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 714,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 715,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 716,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 717,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 718,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 725,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 726,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 731,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 733,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 735,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 736,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 738,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 741,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 742,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 743,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 745,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 746,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 747,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 748,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 749,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 750,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 751,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 753,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 754,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 756,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 757,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 759,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 768,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 787,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 794,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 822,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 823,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 825,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 826,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 828,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 842,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 844,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 857,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 862,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 865,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 871,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 873,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 874,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 880,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 884,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 894,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 896,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 910,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 914,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 917,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 919,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 946,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 948,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 949,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 952,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 963,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 964,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 966,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 968,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 970,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 980,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 987,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 992,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1003,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1004,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1005,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1008,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1012,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1021,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1025,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1032,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1033,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1034,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1035,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1036,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1037,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1040,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1041,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1044,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1045,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1050,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1051,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1053,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1056,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1060,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1064,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1065,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1067,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1070,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1071,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1078,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1080,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1081,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1082,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1083,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1084,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1086,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1092,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1096,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1098,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1099,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1101,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1102,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1103,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1104,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1105,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1106,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1107,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1108,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1117,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1118,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1119,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1120,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1121,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1124,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1127,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1131,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1132,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1133,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1136,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1137,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1138,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1139,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1140,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1143,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1146,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1164,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1171,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1174,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1183,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1185,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1192,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1195,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1196,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1198,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1205,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1208,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1209,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1211,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1212,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1213,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1214,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1216,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1221,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1230,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1231,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1232,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1236,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1238,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1240,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1241,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1242,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1243,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1245,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1250,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1253,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1254,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1259,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1260,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1264,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1278,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1281,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1283,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1284,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1287,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1288,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1290,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1291,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1297,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1298,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1300,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1308,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1311,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1315,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1317,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1321,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1323,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1324,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1325,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1332,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1336,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1337,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1338,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1339,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1341,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1342,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1345,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1348,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1371,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1373,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1392,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1393,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1397,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1407,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1408,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1409,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1410,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1415,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1416,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1417,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1418,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1420,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1421,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1422,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1423,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1424,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1425,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1426,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1428,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1435,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1437,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1439,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1444,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1447,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1451,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1452,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1454,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1458,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1464,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1469,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1471,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1477,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1479,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1481,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1483,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1485,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1488,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1489,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1491,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1494,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1497,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1499,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1506,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1509,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1510,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1512,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1515,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1522,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1527,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1528,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1531,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1532,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1533,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1549,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1550,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1552,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1554,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1569,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1570,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1574,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1577,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1578,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1581,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1583,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1584,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1613,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1617,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1618,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1629,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1631,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1633,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1634,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1635,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1637,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1648,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1653,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1669,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1671,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1673,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1675,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1679,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1683,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1684,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1685,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1688,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1689,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1690,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1691,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1692,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1694,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1701,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1702,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1704,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1707,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1709,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1711,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1712,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1714,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1716,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1718,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1720,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1721,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1722,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1723,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1725,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1726,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1727,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1728,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1732,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1733,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1734,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1735,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1736,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1740,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1742,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1743,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1744,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1747,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1756,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1757,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1760,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1761,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1763,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1770,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1771,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1776,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1777,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1779,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1781,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1783,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1785,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1790,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1791,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1792,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1793,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1794,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1795,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1797,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1800,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1804,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1818,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1819,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1823,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1829,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1830,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1831,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1832,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1833,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1834,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1835,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1838,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1839,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1843,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1848,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1855,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1857,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1858,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1860,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1862,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1863,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1866,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1868,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1870,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1872,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1884,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1887,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1888,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1890,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1892,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1894,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1895,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1902,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1907,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1913,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1915,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1921,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1927,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1931,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1934,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1935,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1937,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1944,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1950,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1952,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1962,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1964,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1975,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1986,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1987,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1988,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1990,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1991,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1994,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1995,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1996,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1997,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 1998,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2000,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2004,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2007,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2009,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2011,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2015,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2021,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2047,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2048,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2051,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2055,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2057,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2059,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2067,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2068,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2069,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2073,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2074,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2079,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2083,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2096,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2097,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2099,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2110,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2111,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2112,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2113,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2114,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2117,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2118,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2120,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2121,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2122,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2124,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2125,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2126,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2127,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2132,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2135,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2140,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2145,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2147,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2148,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2149,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2151,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2155,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2161,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2162,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2170,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2172,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2176,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2177,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 2179,
+		"idTraceDirection" : 13
+	},
+	{
+		"idPath" : 8,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 14,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 77,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 80,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 120,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 208,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 209,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 436,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 437,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 439,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 445,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 872,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 902,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 905,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 907,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1074,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1156,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1305,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1411,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1412,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1413,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1446,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1576,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1903,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 1959,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 2153,
+		"idTraceDirection" : 14
+	},
+	{
+		"idPath" : 37,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 106,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 113,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 116,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 203,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 205,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 207,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 892,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 990,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 995,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 998,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 1001,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 1972,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 1979,
+		"idTraceDirection" : 15
+	},
+	{
+		"idPath" : 18,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 21,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 25,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 41,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 43,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 44,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 48,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 53,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 82,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 83,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 84,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 85,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 124,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 126,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 130,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 136,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 181,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 182,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 184,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 201,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 239,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 241,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 243,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 245,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 268,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 269,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 270,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 273,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 428,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 429,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 432,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 443,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 501,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 516,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 518,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 523,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 525,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 526,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 529,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 565,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 566,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 585,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 586,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 636,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 689,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 691,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 765,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 766,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 769,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 770,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 927,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 954,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 955,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1066,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1167,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1168,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1222,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1223,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1248,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1249,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1276,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1277,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1279,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1280,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1395,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1457,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1459,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1514,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1519,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1573,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1587,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1606,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1609,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1615,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1619,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1621,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1622,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1623,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1628,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1636,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1638,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1643,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1645,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1646,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1647,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1713,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 1755,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 2056,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 2104,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 2105,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 2106,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 2107,
+		"idTraceDirection" : 16
+	},
+	{
+		"idPath" : 12,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 125,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 149,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 164,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 166,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 176,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 206,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 210,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 220,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 225,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 231,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 236,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 284,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 293,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 307,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 343,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 376,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 391,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 409,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 553,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 602,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 608,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 612,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 643,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 802,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 809,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 816,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 832,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 833,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 912,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 1657,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 1662,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 1909,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 1923,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 1925,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 1942,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 1949,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 2018,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 2095,
+		"idTraceDirection" : 17
+	},
+	{
+		"idPath" : 10,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 434,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 438,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 584,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 694,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 724,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 752,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 934,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 938,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 1313,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 1655,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 1656,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 1676,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 2086,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 2146,
+		"idTraceDirection" : 18
+	},
+	{
+		"idPath" : 15,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 49,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 104,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 107,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 109,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 111,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 165,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 167,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 211,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 218,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 315,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 317,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 412,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 413,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 935,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 943,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 950,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 951,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 969,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 979,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 983,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 986,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 993,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 1000,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 1299,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 1302,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 1612,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 1625,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 2103,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 2119,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 2168,
+		"idTraceDirection" : 19
+	},
+	{
+		"idPath" : 7,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 52,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 93,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 98,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 400,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 469,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 662,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 776,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 804,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 815,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 926,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 933,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 939,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 940,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 1125,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 1449,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 1453,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 1513,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 1517,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 1654,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 2098,
+		"idTraceDirection" : 20
+	},
+	{
+		"idPath" : 2186,
+		"idTraceDirection" : 20
+	}
+]
